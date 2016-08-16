@@ -1,2 +1,3 @@
-# xperta-php
-Pruebas Xperta
+# Xperta : Aprendiendo PHP
+
+En este repositorio se realizarán pruebas.
